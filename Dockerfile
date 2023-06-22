@@ -1,4 +1,4 @@
-ROM registry.access.redhat.com/ubi9/php-81@sha256:f3486e8b190dcfd05fe3c55055188fa5d867c7b0a48081b2b430470e77b2d8ca
+FROM registry.access.redhat.com/ubi9/php-81@sha256:f3486e8b190dcfd05fe3c55055188fa5d867c7b0a48081b2b430470e77b2d8ca
 
 USER root
 LABEL maintainer="arcs-stuweb09"
